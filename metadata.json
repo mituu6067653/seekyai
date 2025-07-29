@@ -1,0 +1,8 @@
+{
+  "name": "Seeky",
+  "description": "Seeky is a helpful and friendly AI assistant. Chat via text or voice and get concise, informative, and engaging responses.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
